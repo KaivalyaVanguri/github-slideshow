@@ -1,6 +1,4 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+"My name is Kaivalya and This is my first project."
+        -Kai
 ---
-Your text
-Use the left arrow to go back!
